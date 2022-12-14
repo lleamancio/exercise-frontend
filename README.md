@@ -2,6 +2,9 @@
 
 I want save exercise of my journey in frontend
 
-## Stack utilizada
+## Stack
 
-**Front-end:** React, Javascript, Html, Css
+- [React]
+- [Javascript]
+- [Html]
+- [Css]
